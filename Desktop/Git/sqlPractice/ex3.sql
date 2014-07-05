@@ -10,5 +10,5 @@ INSERT INTO person(id, first_name, last_name, age)
 	VALUES (1, "Zaighum", "Rajput", 23);
 	
 INSERT INTO pet (id, name, breed, age, dead)
-	VALUES (1, "Bunty", "Bleven", 20, 0)
+	VALUES (1, "Bunty", "Bleven", 20, 0);
 	

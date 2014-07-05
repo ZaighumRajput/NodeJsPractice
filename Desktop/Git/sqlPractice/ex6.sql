@@ -3,4 +3,4 @@ SELECT pet.name, pet.age, pet.dead
 	WHERE
 	pet.id = person_pet.pet_id AND
 	person_pet.person_id = person.id AND
-	person.first_name = "Zaighum";
+	person.id = 0;

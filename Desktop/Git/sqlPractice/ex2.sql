@@ -18,7 +18,7 @@ CREATE TABLE person_pet (
 	pet_id INTEGER
 );
 
-CREATE TALBLE car (
+CREATE TABLE car (
 	id INTEGER PRIMARY KEY,
 	name TEXT,
 	brand TEXT,
